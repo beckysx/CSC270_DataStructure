@@ -1,0 +1,33 @@
+
+Lab 1b Report- Linux Command Line
+
+Becky.Song
+
+1. The "ls" list all the content in the current directory, but only shows file names.
+   However "ls -l" show more specific information, include file name, modification time,file size,group,owner and file permissions.
+ 
+2. ls -t  ls -s  ls -a  ls -m  ls -n
+
+3. An absolute pathname begins with the root directory and follows the tree branch by branch until the path to the desired directory or file is completed. 
+   An relative pathname is defined according to the wording directory. From where the current directory you are in, you can move to parent directory or child directory by command line.
+   To sum up, the absolute pathname start with the root directory and the relative pathname start with the working directory.
+
+4. cd ..
+
+5.underscores
+
+6. which python
+
+7. less is a program that you can view text files, and you can use move up and move down keys to move through the text file.
+
+8. type "q"
+
+9.square brackets means optional items.
+
+10. * .py  Wildcard matching
+
+11. du > file_name.txt
+
+12. kill
+
+13. The pipe can make the standard output of one command is fed into the standard input of another
